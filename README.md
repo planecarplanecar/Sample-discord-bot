@@ -1,4 +1,4 @@
-![Discord Logo](https://www.techgenesis.net/wp-content/uploads/2021/04/how-to-delete-audit-logs-in-discord.png)
+![Discord Logo](https://i.imgur.com/aTpyl4K.jpg)
 
 
 # Sample-discord-bot
