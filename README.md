@@ -1,3 +1,6 @@
+![Discord Logo](https://www.techgenesis.net/wp-content/uploads/2021/04/how-to-delete-audit-logs-in-discord.png)
+
+
 # Sample-discord-bot
 A discord bot made with python made to the bare minimum required to function.
 
